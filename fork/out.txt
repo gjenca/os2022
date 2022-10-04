@@ -1,0 +1,7 @@
+a.out
+fork_puzzle
+fork_puzzle.c
+fork_redirect
+fork_redirect.c
+fork2.c
+out.txt
