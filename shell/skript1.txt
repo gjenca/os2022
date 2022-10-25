@@ -1,0 +1,3 @@
+#!/usr/bin/cat
+Toto je
+skript ktory vypisuje sam seba.
