@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+echo "Pocet argumentov:$#"
+echo '$1'"==$1"
+echo '$2'"==$2"
+echo '$3'"==$3"
+
+echo "Vsetky argumenty:$@"
+
+for ARG in "$@"; do
+	echo "$ARG"
+done
+
+
